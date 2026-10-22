@@ -1,0 +1,6 @@
+[submodule "external/safetyhook"]
+	path = external/safetyhook
+	url = https://github.com/cursey/safetyhook.git
+[submodule "external/zydis"]
+	path = external/zydis
+	url = https://github.com/zyantific/zydis.git
